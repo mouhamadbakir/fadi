@@ -1,0 +1,50 @@
+
+<html>
+
+
+<pre style="font-size: 16px;color:black ;text-align:center">
+
+
+  <b><p style="font-size:30;color:black"> Login</p></b>
+                                   
+   <input type=text value=Username/Email style="font-size:17 ; text-align:center">
+                                                                            
+   <input type=text value=Password style="font-size:17 ;text-align:center">
+   <input type=submit value=SIGN style="font-size:20;color:black ;text-align:center">
+                                            
+<hr width=500></pre>
+<pre>
+ 
+   <h3 align=left style="font-size:20;margin-left:10 ;text-align:center"> <b> Not a member ?</b></h3>
+  <input type=button value="Create account"  style ="width:140;height:40 ;text-align:center" >
+                                                                                                          
+ </pre>
+ 
+<pre align=center style="font-size:20;background-color:#white">
+<hr>
+
+Help center      Information      Account       policy
+
+
+
+    <p style="text-align:left;font-family:serif;font-style:italic">  فرص الحياة لا تأتي إلا مرات معدودة فلا تجعل فرصك قليلة، وابحث دائما عن نفسك.
+السعى من أجل تحقيق أحلامك، وضعها دائما هى الأولى فى حياتك.
+انت مسؤول عن أفعالك وليس احد مسؤل عنك.
+لا تدخل أحد فى امورك ولا تتكلم كثيرا، ضع أفعالك هى التى ترد على الجميع. <font size=1></font></p>
+       
+
+<a href="mailto:hasanbanno.2004@icloud.com">Contact us</a>
+
+
+<a href="https://www.instagram.com/"><img src="insta.jpeg" width=50></a> <a href="https://www.facebook.com/"><img src="face.png" width=40></a>
+
+
+ <img src="imaj2.jpg" width=400 align=center>
+                           
+</pre>
+
+
+
+
+</body>
+</html>
